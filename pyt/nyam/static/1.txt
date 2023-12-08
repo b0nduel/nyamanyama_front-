@@ -1,0 +1,252 @@
+
+
+
+/* общее */
+
+position: absolute;
+width: 375px;
+height: 146px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 375px;
+height: 146px;
+left: 0px;
+top: 0px;
+
+background: #AFC785;
+
+
+/* шапка */
+
+position: absolute;
+width: 337px;
+height: 44px;
+left: 19px;
+top: 47.04px;
+
+
+
+/* лого */
+
+position: absolute;
+width: 200px;
+height: 44px;
+left: 88px;
+top: 47.04px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 88px;
+top: 52.04px;
+
+background: #E9E8E2;
+box-shadow: 5px 5px 23px #30443C;
+
+
+/* Mask group */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 92px;
+top: 56.24px;
+
+
+
+/* free-icon-delicious-3508371 1 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 92px;
+top: 56.24px;
+
+background: url(free-icon-delicious-3508371.png);
+
+
+/* free-icon-delicious-3508371 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 92px;
+top: 56.24px;
+
+background: linear-gradient(0deg, #30443C, #30443C), url(free-icon-delicious-3508371.png);
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 7px;
+height: 11px;
+left: 92px;
+top: 80.04px;
+
+background: #E9E8E2;
+
+
+/* НямаНяма */
+
+position: absolute;
+width: 166px;
+height: 38px;
+left: 122px;
+top: 47.04px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 38px;
+
+color: #30443C;
+
+https://github.com/Fontorrra/nyamanyama_front-.git
+
+/* Mask group */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 19px;
+top: 47.04px;
+
+
+
+/* image 17 */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 19px;
+top: 47.04px;
+
+background: url(image.png);
+
+
+/* image 18 */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 19px;
+top: 47.04px;
+
+background: linear-gradient(0deg, #30443C, #30443C), url(image.png);
+
+
+/* Mask group */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 320px;
+top: 49.04px;
+
+
+
+/* image 16 */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 320px;
+top: 49.04px;
+
+background: url(image.png);
+
+
+/* image 17 */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 320px;
+top: 49.04px;
+
+background: linear-gradient(0deg, #30443C, #30443C), url(image.png);
+
+
+/* поиск */
+
+position: absolute;
+width: 310px;
+height: 35px;
+left: 33px;
+top: 101.92px;
+
+
+
+/* Rectangle 37 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 310px;
+height: 35px;
+left: 33px;
+top: 101.92px;
+
+background: #E9E8E1;
+border: 2px solid #30443C;
+border-radius: 24px;
+
+
+/* Начните вводить */
+
+position: absolute;
+width: 274px;
+height: 34.3px;
+left: 69px;
+top: 101.92px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+opacity: 0.35;
+
+
+/* image 13 */
+
+position: absolute;
+width: 21px;
+height: 21.56px;
+left: 40px;
+top: 107.8px;
+
+background: url(image.png);
+
+
+/* Line 1 */
+
+position: absolute;
+width: 32.39px;
+height: 0px;
+left: 64.5px;
+top: 136.23px;
+
+border: 2px solid #30443C;
+transform: rotate(-90deg);
